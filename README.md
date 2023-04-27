@@ -1,6 +1,6 @@
 # OperatingSystems
 
-This repository includes several homeworks from CS 162: Operating Systems and Systems Programming at Berkley.
+This repository contains several homeworks from Berkley's CS 162: Operating Systems and Systems Programming course.
 
 * [Homework 1 - Shell](#Shell)
 * [Homework 2 - HTTP Server](#HTTP-Server)
